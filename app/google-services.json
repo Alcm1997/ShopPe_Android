@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "663208236763",
+    "project_id": "shoppe-bd61e",
+    "storage_bucket": "shoppe-bd61e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663208236763:android:be0a5ea4f16c3dba9e1efe",
+        "android_client_info": {
+          "package_name": "com.idat.tiendonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663208236763-0dq1j2keih4o4o58ko0vci2ldad6cb9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.idat.tiendonline",
+            "certificate_hash": "0461f994c19fa253fe23568da891661cfc02e426"
+          }
+        },
+        {
+          "client_id": "663208236763-0f5m5be9fkv0uknmk5dsgu2lcmn8j4ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.idat.tiendonline",
+            "certificate_hash": "a46f8bdc7555dc3b05df1a99e3e2dd64c1a25c87"
+          }
+        },
+        {
+          "client_id": "663208236763-6u6ltk5vr7d8oaba0idscfnfu586290u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.idat.tiendonline",
+            "certificate_hash": "d74caef9df49e2b76cd31dbcbe1e1f8f7a6e45da"
+          }
+        },
+        {
+          "client_id": "663208236763-8dgvls6fqkf0uu8t3eib6spj9o6e7gqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.idat.tiendonline",
+            "certificate_hash": "bbc72ef4eab9caa297b175fe4575367edeac9705"
+          }
+        },
+        {
+          "client_id": "663208236763-ac5afj98noqtnbcbng130biomdn51n3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.idat.tiendonline",
+            "certificate_hash": "03ed88f1731d70266c8086b9aca8ca8c458b0767"
+          }
+        },
+        {
+          "client_id": "663208236763-ooknq4ajtkj3bkrknien9q52lf3p9utm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiyLTRbSATOYjhIwPU9hP0efOubgducCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663208236763-ooknq4ajtkj3bkrknien9q52lf3p9utm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

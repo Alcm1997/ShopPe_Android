@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Reducimos a 46dp para asegurar que entre en la Safe Zone (66dp círculo central) -->
+    <item
+        android:width="46dp"
+        android:height="46dp"
+        android:gravity="center"
+        android:drawable="@drawable/logo_shoppe_icon" />
+</layer-list>

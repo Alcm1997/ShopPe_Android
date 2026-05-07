@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Aquí "dibujamos" un contenedor para tu logo -->
+    <!-- El logo se escala para que quepa en el centro (66% del total es el estándar de Google) -->
+    <group
+        android:translateX="18"
+        android:translateY="18">
+        <path
+            android:pathData="M0,0h72v72h-72z"
+            android:fillColor="#00000000" />
+        <!-- Nota: Como no puedo convertir tu imagen a vector automáticamente,
+             usaremos el bitmap directamente en el siguiente paso. -->
+    </group>
+</vector>

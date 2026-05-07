@@ -1,15 +1,21 @@
 *.iml
 .gradle
 /local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
+/.idea/
+/.kotlin/
+/.vscode/
 /build
 /captures
 .externalNativeBuild
 .cxx
 local.properties
+
+# Firebase
+app/google-services.json
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
